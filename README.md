@@ -114,3 +114,10 @@ Sample configuration:
 * [Bitcoin Core releases](https://bitcoincore.org/en/releases/)
 * [Bitcoin Core lifecycle schedule](https://bitcoincore.org/en/lifecycle/#schedule)
 * [Bitcoin Core RPC documentation](https://bitcoincore.org/en/doc/)
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
